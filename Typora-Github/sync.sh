@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 进入本地仓库目录
-cd ~/Desktop/Aria
+cd ~/Desktop/Typora-Github
 
 # 添加所有更改
 git add .
